@@ -10,7 +10,7 @@
 
 ## Plugin install
 1. Download Git repo ZIP file
-2. Before in user **/release/SCF.zip** file for plugin install
+2. After unpack, use **/release/SCF.zip** file for plugin install
 3. Login to WP admin panel
 4. Select **Plugins**
 5. Select **Add new**

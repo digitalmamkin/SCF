@@ -9,14 +9,16 @@
 7. Open **http://127.0.0.1:8880/wp-admin** and Enjoy!
 
 ## Plugin install
-1. Login to WP admin panel
-2. Select **Plugins**
-3. Select **Add new**
-4. Select **Upload plugin**
-5. Select plugin zip file in dialog (/release/SCF.zip)
-6. Press **Install now** 
-7. Press **Activate plugin**
-8. Use [scf_short] - short code in WP pages;
+1. Download Git repo ZIP file
+2. Before in user **/release/SCF.zip** file for plugin install
+3. Login to WP admin panel
+4. Select **Plugins**
+5. Select **Add new**
+6. Select **Upload plugin**
+7. Select **SCF.zip** file in dialog
+8. Press **Install now** 
+9. Press **Activate plugin**
+10. Use **[scf_short]** - short code in WP pages;
 
 
 https://user-images.githubusercontent.com/11070693/167322645-4d8176c3-6c25-4a97-9ade-c2b973158d93.mov

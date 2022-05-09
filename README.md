@@ -17,3 +17,6 @@
 6. Press **Install now** 
 7. Press **Activate plugin**
 8. Use [scf_short] - short code in WP pages;
+
+
+https://user-images.githubusercontent.com/11070693/167322645-4d8176c3-6c25-4a97-9ade-c2b973158d93.mov
